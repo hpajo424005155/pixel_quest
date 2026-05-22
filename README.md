@@ -4,7 +4,7 @@
 
 **Author:** HARVEY PAJO
 
-**Course:** Final Project — Game Development with Pygame
+**Course:** BSIT 2.3 - PYTHON Final Project — Game Development with Pygame
 
 **Date:** May 22, 2026
 
