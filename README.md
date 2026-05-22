@@ -3,7 +3,9 @@
 # Pixel Quest: The Last Coin
 
 **Author:** HARVEY PAJO
+
 **Course:** Final Project — Game Development with Pygame
+
 **Date:** May 22, 2026
 
 ## How to Run the Game
